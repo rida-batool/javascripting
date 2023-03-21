@@ -7,3 +7,5 @@ const car = {
 const keys = Object.keys(car);
 
 console.log(keys);
+
+console.log(Object.keys(car).length);
